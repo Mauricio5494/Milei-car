@@ -1,0 +1,11 @@
+C:\Users\Colàgeno\source\repos\clases heredadas\clases heredadas\bin\Debug\clases heredadas.exe.config
+C:\Users\Colàgeno\source\repos\clases heredadas\clases heredadas\bin\Debug\clases heredadas.exe
+C:\Users\Colàgeno\source\repos\clases heredadas\clases heredadas\bin\Debug\clases heredadas.pdb
+C:\Users\Colàgeno\source\repos\clases heredadas\clases heredadas\obj\Debug\clases heredadas.csproj.AssemblyReference.cache
+C:\Users\Colàgeno\source\repos\clases heredadas\clases heredadas\obj\Debug\clases heredadas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Colàgeno\source\repos\clases heredadas\clases heredadas\obj\Debug\clases_heredadas.Form1.resources
+C:\Users\Colàgeno\source\repos\clases heredadas\clases heredadas\obj\Debug\clases_heredadas.Properties.Resources.resources
+C:\Users\Colàgeno\source\repos\clases heredadas\clases heredadas\obj\Debug\clases heredadas.csproj.GenerateResource.cache
+C:\Users\Colàgeno\source\repos\clases heredadas\clases heredadas\obj\Debug\clases heredadas.csproj.CoreCompileInputs.cache
+C:\Users\Colàgeno\source\repos\clases heredadas\clases heredadas\obj\Debug\clases heredadas.exe
+C:\Users\Colàgeno\source\repos\clases heredadas\clases heredadas\obj\Debug\clases heredadas.pdb
